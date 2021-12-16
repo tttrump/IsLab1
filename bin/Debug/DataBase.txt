@@ -1,0 +1,21 @@
+﻿Philips Xenium E580	4490	3	Черный	IPS	Отсутствует	Class_A
+Itel it563	1575	3	Серебристый	IPS	Отсутствует	Class_A
+Alcatel 1066D	1290	2	Черный	IPS	Отсутствует	Class_A
+Xiaomi Redmi Note 10S	21030	6	Черный	AMOLED	Над дисплеем	Class_B
+Samsung Galaxy A32	17990	6	Черный	SUPER AMOLED	Над дисплеем	Class_B
+OnePlus Nord N10 5G	23630	6	Белый	IPS	Островная	Class_B
+Apple iPhone 12 mini	54990	5	Зеленый	Super Retina XDR	Шторкой	Class_C
+Sony Xperia 5 III	49990	6	Зеленый	OLED	Скрытая	Class_C
+Samsung Galaxy S21	56290	6	Серебристый	Dynamic	AMOLED	Островная	Class_C
+Xiaomi Redmi Note 10	17990	6	Зеленый	AMOLED	Островная	Class_D
+Realme C21	13190	6	Черный	IPS	Каплевидная	Class_D
+Moto G6	17190	6	Серебристый	IPS	Над дисплеем	Class_D
+Asus ROG Phone 5	74990	7	Черный	AMOLED	Скрытая	Class_G
+OnePlus 9 Pro	55900	7	Зеленый	AMOLED	Островная	Class_G
+Xiaomi Black Shark 4 Pro	38900	7	Черный	SUPER AMOLED	Островная	Class_G
+Huawei Mate X	149990	8	Зеленый	OLED	Скрытая	Class_L
+Samsung Galaxy Z Fold3	154900	8	Зеленый	Dynamic AMOLED	Скрытая	Class_L
+Samsung Galaxy Note 20 Ultra	97999	7	Черный	Dynamic AMOLED	Островная	Class_L
+Apple iPhone 13 Pro	99990	6	Серебристый	Super Retina XDR	Шторкой	Class_S
+Google Pixel 6	66990	6	Зеленый	OLED	Островная	Class_S
+Samsung Galaxy S21	56290	6	Белый	Dynamic AMOLED	Островная	Class_S
